@@ -1,5 +1,5 @@
 Hello,
-I' m Jimin Ha.
+I'm Jimin Ha.
 
 I want to be a versatile developer.
 
